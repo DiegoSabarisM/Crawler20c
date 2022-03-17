@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wkxw12m2T/iRTrqwxy3yYk5DDnT6Dimn0XQqR9mFW8kxi3CKGoZDs13rCCGMKeoqFEPIypen+w8ivqjERGDJ5g==",
+  "success": true,
+  "projectFilePath": "/home/samurai/Downloads/Crawler20c-main/Crawler/Crawler/Crawler.csproj",
+  "expectedPackageFiles": [
+    "/home/samurai/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/samurai/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/samurai/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.22/microsoft.netcore.app.host.linux-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
